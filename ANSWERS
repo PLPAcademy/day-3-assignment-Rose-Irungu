@@ -1,0 +1,28 @@
+QUESTION ONE
+B.Download the Dart SDK
+QUESTION TWO
+D) dart --version
+QUESTION THREE
+B) Update your PATH
+QUESTION FOUR
+C) flutter run
+QUESTION FIVE
+B) Download Python from the official website
+QUESTION SIX
+ C) Add Python to PATH
+QUESTION SEVEN
+A) By running python --version
+QUESTION EIGHT
+C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
+QUESTION NINE
+ C) To separate project dependencies and avoid conflicts
+QUESTION TEN
+B) Download MySQL Installer from the official website
+QUESTION ELEVEN
+D) Custom
+QUESTION TWELVE
+A) MySQL Server, MySQL Workbench, and MySQL Shell
+QUESTION THIRTEEN
+B) To secure your MySQL installation with a super-secret password
+QUESTION FOURTEEN
+ B) Launch MySQL Workbench and connect to your MySQL Server
